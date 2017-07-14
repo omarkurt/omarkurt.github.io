@@ -2,13 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>.OK</title>
-      <generator uri="https://netsparker.com">.OK</generator>
+      <generator uri="https://omarkurt.com">.OK</generator>
     <link>https://omarkurt.com/blog/</link>
     <language>en-us</language>
     <author>Omar KURT</author>
     <copyright>2017 Omar KURT</copyright>
     <updated>Fri, 14 Jul 2017 18:53:11 &#43;03</updated>
-    
     
     <item>
       <title>Hello World</title>
@@ -19,7 +18,7 @@
       <description>&lt;p&gt;Merhaba, umarım artık blog yazabilirim! (procrastination)&lt;/p&gt;
 </description>
     </item>
-    
+  
     
   </channel>
 </rss>
