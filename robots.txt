@@ -1,0 +1,9 @@
+User-agent: *
+
+
+Disallow: /hello-world/
+Disallow: /about/
+Disallow: /
+Disallow: /blog/
+Disallow: /categories/
+Disallow: /tags/
