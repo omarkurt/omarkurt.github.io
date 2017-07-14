@@ -9,24 +9,7 @@
     <copyright>2017 Omar KURT</copyright>
     <updated>Fri, 14 Jul 2017 19:22:48 &#43;03</updated>
     
-    <item>
-      <title>Test Advisory</title>
-      <link>https://omarkurt.com/test-advisory-advisory/</link>
-      <pubDate>Fri, 14 Jul 2017 19:22:48 &#43;03</pubDate>
-      <author>Omar KURT</author>
-      <guid>https://omarkurt.com/test-advisory-advisory/</guid>
-      <description>
-
-&lt;h2 id=&#34;1-description&#34;&gt;#1 Description&lt;/h2&gt;
-
-&lt;h2 id=&#34;2-exploit&#34;&gt;#2 Exploit&lt;/h2&gt;
-
-&lt;h2 id=&#34;3-solution&#34;&gt;#3 Solution&lt;/h2&gt;
-
-&lt;h2 id=&#34;4-disclosure-timeline&#34;&gt;#4 Disclosure Timeline&lt;/h2&gt;
-</description>
-    </item>
-  
+    
     
   </channel>
 </rss>
