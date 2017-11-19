@@ -1,11 +1,6 @@
 User-agent: *
 
 
-Disallow: /test-advisory-advisory/
-Disallow: /hello-world/
-Disallow: /about/
 Disallow: /
-Disallow: /advisory/
-Disallow: /blog/
 Disallow: /categories/
 Disallow: /tags/
