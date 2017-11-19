@@ -3,20 +3,20 @@
   <channel>
       <title>.OK</title>
       <generator uri="https://omarkurt.com">.OK</generator>
-    <link>https://omarkurt.com/blog/</link>
+    <link>https://omar.ninja/blog/</link>
     <language>en-us</language>
     <author>Omar KURT</author>
     <copyright>2017 Omar KURT</copyright>
-    <updated>Fri, 14 Jul 2017 18:53:11 &#43;03</updated>
+    <updated>Sun, 19 Nov 2017 17:19:34 &#43;03</updated>
     
     
     <item>
-      <title>Hello World</title>
-      <link>https://omarkurt.com/hello-world/</link>
-      <pubDate>Fri, 14 Jul 2017 18:53:11 &#43;03</pubDate>
+      <title>Test</title>
+      <link>https://omar.ninja/test/</link>
+      <pubDate>Sun, 19 Nov 2017 17:19:34 &#43;03</pubDate>
       <author>Omar KURT</author>
-      <guid>https://omarkurt.com/hello-world/</guid>
-      <description>&lt;p&gt;Merhaba, umarım artık blog yazabilirim! (procrastination)&lt;/p&gt;
+      <guid>https://omar.ninja/test/</guid>
+      <description>&lt;p&gt;test&lt;/p&gt;
 </description>
     </item>
     

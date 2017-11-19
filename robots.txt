@@ -1,6 +1,8 @@
 User-agent: *
 
 
+Disallow: /test/
 Disallow: /
+Disallow: /blog/
 Disallow: /categories/
 Disallow: /tags/

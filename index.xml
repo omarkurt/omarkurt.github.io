@@ -6,8 +6,20 @@
     <link>https://omar.ninja/</link>
     <language>en-us</language>
     <author>Omar KURT</author>
-    <copyright>0001 Omar KURT</copyright>
-    <updated>Mon, 01 Jan 0001 00:00:00 UTC</updated>
+    <copyright>2017 Omar KURT</copyright>
+    <updated>Sun, 19 Nov 2017 17:19:34 &#43;03</updated>
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://omar.ninja/test/</link>
+      <pubDate>Sun, 19 Nov 2017 17:19:34 &#43;03</pubDate>
+      <author>Omar KURT</author>
+      <guid>https://omar.ninja/test/</guid>
+      <description>&lt;p&gt;test&lt;/p&gt;
+</description>
+    </item>
+    
     
   </channel>
 </rss>
