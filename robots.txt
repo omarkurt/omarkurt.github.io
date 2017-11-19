@@ -1,8 +1,10 @@
 User-agent: *
 
 
+Disallow: /test-advisory-published-advisory/
 Disallow: /test/
 Disallow: /
+Disallow: /advisory/
 Disallow: /blog/
 Disallow: /categories/
 Disallow: /tags/
