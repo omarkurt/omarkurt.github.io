@@ -6,18 +6,17 @@
     <link>https://omar.ninja/blog/</link>
     <language>en-us</language>
     <author>Omar KURT</author>
-    <copyright>2017 Omar KURT</copyright>
-    <updated>Sun, 19 Nov 2017 17:19:34 &#43;03</updated>
+    <copyright>2018 Omar KURT</copyright>
+    <updated>Sat, 13 Jan 2018 17:23:31 &#43;03</updated>
     
     
     <item>
-      <title>Test</title>
-      <link>https://omar.ninja/test/</link>
-      <pubDate>Sun, 19 Nov 2017 17:19:34 &#43;03</pubDate>
+      <title>Hello World</title>
+      <link>https://omar.ninja/hello-world/</link>
+      <pubDate>Sat, 13 Jan 2018 17:23:31 &#43;03</pubDate>
       <author>Omar KURT</author>
-      <guid>https://omar.ninja/test/</guid>
-      <description>&lt;p&gt;test&lt;/p&gt;
-</description>
+      <guid>https://omar.ninja/hello-world/</guid>
+      <description></description>
     </item>
     
     

@@ -1,8 +1,8 @@
 User-agent: *
 
 
+Disallow: /hello-world/
 Disallow: /test-advisory-published-advisory/
-Disallow: /test/
 Disallow: /
 Disallow: /advisory/
 Disallow: /blog/

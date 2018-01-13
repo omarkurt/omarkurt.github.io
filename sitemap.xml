@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://omar.ninja/hello-world/</loc>
+    <lastmod>2018-01-13T17:23:31+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://omar.ninja/test-advisory-published-advisory/</loc>
     <lastmod>2017-11-19T17:21:18+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://omar.ninja/test/</loc>
-    <lastmod>2017-11-19T17:19:34+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://omar.ninja/</loc>
-    <lastmod>2017-11-19T17:21:18+03:00</lastmod>
+    <lastmod>2018-01-13T17:23:31+03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -26,7 +26,7 @@
   
   <url>
     <loc>https://omar.ninja/blog/</loc>
-    <lastmod>2017-11-19T17:19:34+03:00</lastmod>
+    <lastmod>2018-01-13T17:23:31+03:00</lastmod>
     <priority>0</priority>
   </url>
   
