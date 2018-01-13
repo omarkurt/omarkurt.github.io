@@ -2,9 +2,7 @@ User-agent: *
 
 
 Disallow: /hello-world/
-Disallow: /test-advisory-published-advisory/
 Disallow: /
-Disallow: /advisory/
 Disallow: /blog/
 Disallow: /categories/
 Disallow: /tags/
